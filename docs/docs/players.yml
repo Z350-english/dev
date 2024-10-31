@@ -1,0 +1,24 @@
+---
+- name: LeBron James
+  sports: Basketball
+  team:
+    name: Lakers
+    city: Los Angeles
+  Position: Forward
+  Age: '38'
+- name: Lionel Messi
+  sports: Soccer
+  team:
+    name: Inter Miami
+    city: Miami
+  Position: Forward
+  Age: '36'
+
+# Any text intended for humans, YAML will ignore it
+name: LeBron # another comment
+# Any text intended for humans, YAML will ignore it
+name: Lionel # another comment
+
+# name is Lebron
+
+# name is Lionel
